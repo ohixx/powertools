@@ -8,6 +8,17 @@
   <b>English</b> | <a href="README.ru.md">Русский</a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ohixx/powertools/stargazers"><img src="https://img.shields.io/github/stars/ohixx/powertools?style=for-the-badge&logo=github&label=%E2%AD%90%20Star%20this%20repo&color=f5af3c" alt="Star this repo"></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078d4?style=flat-square" alt="Windows 10 | 11">
+  <img src="https://img.shields.io/badge/C%2B%2B-20-00599c?style=flat-square" alt="C++20">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-BSD--3-3ac97b?style=flat-square" alt="BSD-3"></a>
+  <img src="https://img.shields.io/badge/status-alpha-f5af3c?style=flat-square" alt="alpha">
+</p>
+
 ---
 
 PowerTools is a small native Windows 10/11 app for cleaning and customizing the system. It removes built-in apps and background junk, switches off ads and recommendations, tunes the power plan and visual effects for speed, and adds window management that Windows does not have: move and resize any window with the mouse from anywhere, and bind your own hotkeys.
@@ -76,6 +87,10 @@ cmake --build build --config Release
 
 The binary is `build/Release/PowerTools.exe`. Dear ImGui is vendored in `third_party/imgui`.
 
+Support the project
+-------------------
+
+If PowerTools saved you time or RAM, **[give it a star](https://github.com/ohixx/powertools)**. It helps others find it and keeps development going. Found a bug or have a tweak idea? [Open an issue](https://github.com/ohixx/powertools/issues).
 License
 -------
 
