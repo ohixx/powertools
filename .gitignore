@@ -1,0 +1,10 @@
+build/
+out/
+.vs/
+.vscode/
+*.user
+*.aps
+CMakeUserPresets.json
+build*/
+shot.png
+build.log
